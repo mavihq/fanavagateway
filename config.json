@@ -1,0 +1,4 @@
+{
+    "form_url": "https://fcp.shaparak.ir/_ipgw_//payment/simple/",
+    "webservice_url": "https://FCP.shaparak.ir/ref-payment/jax/merchantAuth?wsdl"
+}
